@@ -1,0 +1,41 @@
+body{
+
+}
+#principal{
+	width: 1200px;
+	border: 1px solid #000000;
+	margin: 0 auto;	
+
+}
+
+#cabecera{
+	background: url(../imagenes/logo1.png);
+	background-position: bottom right;
+	background-repeat: no-repeat;
+	height: 100px;
+	color: #f47920;
+
+
+}
+
+#menu{
+	height: 30px;
+	margin: 10px 0px 10px 0px;
+	background: #f0b429;
+}
+
+#menu li{
+	margin-left: 70px;
+	padding-bottom: : 10px;
+	
+	display: inline;
+}
+#cuerpo{
+	height: 350px;
+	background: #ffffff;
+}
+#pie{
+	height: 80px;
+	background: #005883;
+	color: #FFFFFF;
+}
